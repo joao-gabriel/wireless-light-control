@@ -1,3 +1,6 @@
+## THIS PROJECT HAS BEEN DISCONTINUED DUE TO THE SHORT RANGE OF RF TRANSMITTERS AND RECEIVERS
+## I INTEND TO MAKE IT WITH ANOTHER WIRELESS OPTION IN THE FUTURE 
+
 # Wireless Light Control
 An Arduino project to turn the light on and off at distance (lazyness is movitavion :P)
 
